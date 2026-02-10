@@ -29,7 +29,6 @@ This project replicates the **UI and layout of Amazon’s homepage**, focusing o
 ### Homepage  
 ![Homepage](./p43.png)
 
-### Products Section  
 ![Products](./p43a.png)
 
 ---
@@ -37,7 +36,7 @@ This project replicates the **UI and layout of Amazon’s homepage**, focusing o
 ## 🔗 Live Link
 
 Check out the live version of my Amazon Clone here:  
-👉 **[Visit Amazon Clone](https://adityamahekar.github.io/Simple_Protfolio/)**
+👉 **[Visit Amazon Clone](https://adityamahekar.github.io/Amazon__Clone/)**
 
 ---
 
